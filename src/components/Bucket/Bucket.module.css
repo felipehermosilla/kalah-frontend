@@ -1,0 +1,25 @@
+.Bucket {
+  background-color: #f7f7f9;
+  min-height: 200px;
+  margin-top: 15px;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.BucketPrincipal {
+  min-height: 240px;
+  margin-top: 75%!important;
+  border: 2px solid black;
+}
+.Bucket span{
+  margin-right: 5px;
+}
+
+.FirstPlayerBucketSelector {
+  border: 2px solid #F4A259;
+}
+
+.SecondPlayerBucketSelector {
+  border: 2px solid #8CB369;
+}
